@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Fab's Travels]]></title>
         <description><![CDATA[Fab's Travels]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fab-s-travels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 13:13:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 00:57:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fab-s-travels/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0081d6e6-4691-43d5-b58a-c80232e7c8ea.jpg">]]></description>
-            <link>undefined8d38d18d-14d3-4286-af9f-41b7a90a66eb/index.html</link>
+            <link>https://thegrid.ai/fab-s-travels/8d38d18d-14d3-4286-af9f-41b7a90a66eb/index.html</link>
             <guid isPermaLink="false">8d38d18d-14d3-4286-af9f-41b7a90a66eb</guid>
-            <pubDate>Fri, 04 Mar 2016 13:10:29 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 00:56:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
